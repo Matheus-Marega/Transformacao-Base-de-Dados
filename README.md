@@ -1,6 +1,3 @@
-Claro, meu pintudo! Aqui está um exemplo completo e bem estruturado de um `README.md` para o seu projeto:
-
----
 
 # 📊 Comparador de Dados Tabulares com Streamlit
 
