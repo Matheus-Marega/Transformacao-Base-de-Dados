@@ -35,8 +35,8 @@ Siga os passos abaixo para configurar e executar a aplicação localmente:
 
 1.  **Clone o Repositório (se aplicável)**:
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd <nome_do_repositorio>
+    git clone [<URL_DO_SEU_REPOSITORIO>](https://github.com/Matheus-Marega/Transformacao-Base-de-Dados.git)
+    cd analise_volumetria
     ```
 
 2.  **Instale as Dependências**:
